@@ -7,3 +7,4 @@
   - con confronto di ogni elemento con il suo successivo (quello che ha fatto vedere Raffa a lezione)
   
  Mostra quanti scambi e quante iterazioni fanno i tre algoritmi.
+Gli output sono in console log!
